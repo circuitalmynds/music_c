@@ -6,289 +6,384 @@
     "total_size": 935.8038158416748,
     "video_list": {
         "CASTLEBEAT - VHS (Full Album).mp4": {
-            "size": 44.82705593109131
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CASTLEBEAT%20-%20VHS%20(Full%20Album).mp4?raw=true"
         },
         "CHINO - 'She Sexy' ft.Charlie D.-nMsEStjn0ps.mp4": {
-            "size": 14.261137008666992
+            "image": "https://i.ytimg.com/vi/nMsEStjn0ps/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CHINO%20-%20'She%20Sexy'%20ft.Charlie%20D.-nMsEStjn0ps.mp4?raw=true"
         },
         "CHUY VEGA - AUNQUE TE ENAMORES.wmv-TOKV-RH5H20.mp4": {
-            "size": 4.6300201416015625
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CHUY%20VEGA%20-%20AUNQUE%20TE%20ENAMORES.wmv-TOKV-RH5H20.mp4?raw=true"
         },
         "CHUY VEGA - CUANDO NADIE TE QUIERA.wmv-_ZyCrCUnIVk.mp4": {
-            "size": 4.453987121582031
+            "image": "https://i.ytimg.com/vi/_ZyCrCUnIVk/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CHUY%20VEGA%20-%20CUANDO%20NADIE%20TE%20QUIERA.wmv-_ZyCrCUnIVk.mp4?raw=true"
         },
         "CHUY VEGA - MANUEL DE LA VARA.wmv-X-sBrKIBlgM.mp4": {
-            "size": 5.896538734436035
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CHUY%20VEGA%20-%20MANUEL%20DE%20LA%20VARA.wmv-X-sBrKIBlgM.mp4?raw=true"
         },
         "CHUY VEGA Y LOS NUEVOS CADETES - PA\u00d1UELO-U94WNuyC1no.mp4": {
-            "size": 6.266589164733887
+            "image": "https://i.ytimg.com/vi/U94WNuyC1no/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CHUY%20VEGA%20Y%20LOS%20NUEVOS%20CADETES%20-%20PA%C3%91UELO-U94WNuyC1no.mp4?raw=true"
         },
         "CONJUNTO PRIMAVERA - Muero.mp4": {
-            "size": 11.325508117675781
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CONJUNTO%20PRIMAVERA%20-%20Muero.mp4?raw=true"
         },
         "CONJUNTO PRIMAVERA HAZME OLVIDARLA.mp4": {
-            "size": 6.592479705810547
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CONJUNTO%20PRIMAVERA%20HAZME%20OLVIDARLA.mp4?raw=true"
         },
         "CUMBIA MORENA (AUDIO ORIGINAL) - \ud83d\udd25LA CONCENTRACION\ud83d\udd25 #LACONCECUMBIAS-VizSJmYbOD8.mp4": {
-            "size": 6.961336135864258
+            "image": "https://i.ytimg.com/vi/VizSJmYbOD8/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CUMBIA%20MORENA%20(AUDIO%20ORIGINAL)%20-%20%F0%9F%94%A5LA%20CONCENTRACION%F0%9F%94%A5%20%23LACONCECUMBIAS-VizSJmYbOD8.mp4?raw=true"
         },
         "Cafe Tacvba - Las Flores (MTV Unplugged) (HD)-BPMB4fWRd6U.mp4": {
-            "size": 24.977553367614746
+            "image": "https://i.ytimg.com/vi/BPMB4fWRd6U/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cafe%20Tacvba%20-%20Las%20Flores%20(MTV%20Unplugged)%20(HD)-BPMB4fWRd6U.mp4?raw=true"
         },
         "Cali Life Style - Lost (Mexican Invasion)-mKNT5-OJdFA.mp4": {
-            "size": 9.121329307556152
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cali%20Life%20Style%20-%20Lost%20(Mexican%20Invasion)-mKNT5-OJdFA.mp4?raw=true"
         },
         "Carl Perkins - Guitar Boogie-Ln6M5-ErpcE.mp4": {
-            "size": 6.872563362121582
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Carl%20Perkins%20-%20Guitar%20Boogie-Ln6M5-ErpcE.mp4?raw=true"
         },
         "Carlos Sadness - Mira Que Eres Linda-Edyb96Jbpqo.mp4": {
-            "size": 11.736361503601074
+            "image": "https://i.ytimg.com/vi/Edyb96Jbpqo/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Carlos%20Sadness%20-%20Mira%20Que%20Eres%20Linda-Edyb96Jbpqo.mp4?raw=true"
         },
         "Carlos Santana - Samba Pa Ti-j5AUm_xaE9A.mp4": {
-            "size": 5.314573287963867
+            "image": "https://i.ytimg.com/vi/j5AUm_xaE9A/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Carlos%20Santana%20-%20Samba%20Pa%20Ti-j5AUm_xaE9A.mp4?raw=true"
         },
         "Caro Emerald - A Night Like This (Official Video)-74LXx0wSqMI.mp4": {
-            "size": 15.356999397277832
+            "image": "https://i.ytimg.com/vi/74LXx0wSqMI/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Caro%20Emerald%20-%20A%20Night%20Like%20This%20(Official%20Video)-74LXx0wSqMI.mp4?raw=true"
         },
         "Carolyn Wonderland 'Judgement Day Blues'-7b4fJRPnZT0.mp4": {
-            "size": 24.865221977233887
+            "image": "https://i.ytimg.com/vi/7b4fJRPnZT0/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Carolyn%20Wonderland%20'Judgement%20Day%20Blues'-7b4fJRPnZT0.mp4?raw=true"
         },
         "Cartel de Santa - Con el Coco Rapado (Video)-wyfzJMBOa5k.mp4": {
-            "size": 16.21024227142334
+            "image": "https://i.ytimg.com/vi/wyfzJMBOa5k/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cartel%20de%20Santa%20-%20Con%20el%20Coco%20Rapado%20(Video)-wyfzJMBOa5k.mp4?raw=true"
         },
         "Casa Cumpian-EFVE8Y9STPA.mp4": {
-            "size": 17.887547492980957
+            "image": "https://i.ytimg.com/vi/EFVE8Y9STPA/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Casa%20Cumpian-EFVE8Y9STPA.mp4?raw=true"
         },
         "Casas Viejas - Dueto de Anta\u00f1o-teP-Iwn6K1g.mp4": {
-            "size": 7.88908576965332
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Casas%20Viejas%20-%20Dueto%20de%20Anta%C3%B1o-teP-Iwn6K1g.mp4?raw=true"
         },
         "Cassandra Gemini - Faminepulse-D2hrg-kctA0.mp4": {
-            "size": 12.016072273254395
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cassandra%20Gemini%20-%20Faminepulse-D2hrg-kctA0.mp4?raw=true"
         },
         "Cassandra Gemini - Plant A Nail In the Navel Stream-Uqbhv4pl-D8.mp4": {
-            "size": 4.581682205200195
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cassandra%20Gemini%20-%20Plant%20A%20Nail%20In%20the%20Navel%20Stream-Uqbhv4pl-D8.mp4?raw=true"
         },
         "Cassandra Gemini - Tarantism-4TApHHFY8jM.mp4": {
-            "size": 10.416877746582031
+            "image": "https://i.ytimg.com/vi/4TApHHFY8jM/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cassandra%20Gemini%20-%20Tarantism-4TApHHFY8jM.mp4?raw=true"
         },
         "Chicano Batman - Freedom Is Free (Official Video)-mkEmnrUzFFE.mp4": {
-            "size": 19.45626449584961
+            "image": "https://i.ytimg.com/vi/mkEmnrUzFFE/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chicano%20Batman%20-%20Freedom%20Is%20Free%20(Official%20Video)-mkEmnrUzFFE.mp4?raw=true"
         },
         "Choo Choo Ch'boogie - Louis Jordan-c8uxrypkqv4.mp4": {
-            "size": 7.396799087524414
+            "image": "https://i.ytimg.com/vi/c8uxrypkqv4/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Choo%20Choo%20Ch'boogie%20-%20Louis%20Jordan-c8uxrypkqv4.mp4?raw=true"
         },
         "Chris Cornell  - 'Nothing Compares 2 U' (Prince Cover) [Live @ SiriusXM] _ Lithium-IuUDRU9-HRk.mp4": {
-            "size": 17.71873950958252
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chris%20Cornell%20%20-%20'Nothing%20Compares%202%20U'%20(Prince%20Cover)%20%5BLive%20%40%20SiriusXM%5D%20_%20Lithium-IuUDRU9-HRk.mp4?raw=true"
         },
         "Chuck Berry - Johnny B Goode (1959)-T38v3-SSGcM.mp4": {
-            "size": 4.9622650146484375
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuck%20Berry%20-%20Johnny%20B%20Goode%20(1959)-T38v3-SSGcM.mp4?raw=true"
         },
         "Chuy Vega y Fito Gamez No Me Quisiste Seguir-LfssPKc3L6o.mp4": {
-            "size": 12.485615730285645
+            "image": "https://i.ytimg.com/vi/LfssPKc3L6o/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20Vega%20y%20Fito%20Gamez%20No%20Me%20Quisiste%20Seguir-LfssPKc3L6o.mp4?raw=true"
         },
         "Chuy Vega- Olvidemonos 2012-HLDTCJ1r6QU.mp4": {
-            "size": 4.618199348449707
+            "image": "https://i.ytimg.com/vi/HLDTCJ1r6QU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20Vega-%20Olvidemonos%202012-HLDTCJ1r6QU.mp4?raw=true"
         },
         "Chuy vega   Amor Enterno-RiytPrRiuQw.mp4": {
-            "size": 4.166065216064453
+            "image": "https://i.ytimg.com/vi/RiytPrRiuQw/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20%20Amor%20Enterno-RiytPrRiuQw.mp4?raw=true"
         },
         "Chuy vega   Asi Fue-3SWKANelCXU.mp4": {
-            "size": 4.581866264343262
+            "image": "https://i.ytimg.com/vi/3SWKANelCXU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20%20Asi%20Fue-3SWKANelCXU.mp4?raw=true"
         },
         "Chuy vega  Hazlo Por  Mi Corazon-1lbMrOhBut4.mp4": {
-            "size": 3.261577606201172
+            "image": "https://i.ytimg.com/vi/1lbMrOhBut4/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20Hazlo%20Por%20%20Mi%20Corazon-1lbMrOhBut4.mp4?raw=true"
         },
         "Chuy vega  Jam\u00e1s Me Cansare De Ti-wid8eJ3SPA4.mp4": {
-            "size": 3.2169437408447266
+            "image": "https://i.ytimg.com/vi/wid8eJ3SPA4/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20Jam%C3%A1s%20Me%20Cansare%20De%20Ti-wid8eJ3SPA4.mp4?raw=true"
         },
         "Chuy vega  La Baarca De Guaymas-LJBColzvaxE.mp4": {
-            "size": 2.7383346557617188
+            "image": "https://i.ytimg.com/vi/LJBColzvaxE/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20La%20Baarca%20De%20Guaymas-LJBColzvaxE.mp4?raw=true"
         },
         "Chuy vega  Llorar\u00e1s-RMvC-KW6kIw.mp4": {
-            "size": 3.69051456451416
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20Llorar%C3%A1s-RMvC-KW6kIw.mp4?raw=true"
         },
         "Chuy vega  Por Amor-nhaXwyyz8l4.mp4": {
-            "size": 3.322129249572754
+            "image": "https://i.ytimg.com/vi/nhaXwyyz8l4/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20Por%20Amor-nhaXwyyz8l4.mp4?raw=true"
         },
         "Chuy vega  Por Que Fue Que Te Ame-lj7RtT8WLg4.mp4": {
-            "size": 3.588794708251953
+            "image": "https://i.ytimg.com/vi/lj7RtT8WLg4/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20Por%20Que%20Fue%20Que%20Te%20Ame-lj7RtT8WLg4.mp4?raw=true"
         },
         "Chuy vega  Quedate Conmigo Esta Noche-LhhpljKu268.mp4": {
-            "size": 3.558835983276367
+            "image": "https://i.ytimg.com/vi/LhhpljKu268/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20%20Quedate%20Conmigo%20Esta%20Noche-LhhpljKu268.mp4?raw=true"
         },
         "Chuy vega Fue Un Placer Conocerte-loCwFxjI5J0.mp4": {
-            "size": 2.579561233520508
+            "image": "https://i.ytimg.com/vi/loCwFxjI5J0/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20Fue%20Un%20Placer%20Conocerte-loCwFxjI5J0.mp4?raw=true"
         },
         "Chuy vega No Me Vuelvo a Enamorar-dC7XO_BdztU.mp4": {
-            "size": 2.606046676635742
+            "image": "https://i.ytimg.com/vi/dC7XO_BdztU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Chuy%20vega%20No%20Me%20Vuelvo%20a%20Enamorar-dC7XO_BdztU.mp4?raw=true"
         },
         "Claptone - Dear Life ft Jaw (FULL EP)  TSTLM.mp4": {
-            "size": 31.784805297851562
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Claptone%20-%20Dear%20Life%20ft%20Jaw%20(FULL%20EP)%20%20TSTLM.mp4?raw=true"
         },
         "Clemente, Clemente-AHiSPqhuuKA.mp4": {
-            "size": 2.863239288330078
+            "image": "https://i.ytimg.com/vi/AHiSPqhuuKA/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Clemente%2C%20Clemente-AHiSPqhuuKA.mp4?raw=true"
         },
         "Clifford Brown & Max Roach - Joy Spring _ Drum solo & comping _ Transcription-3cLqVsCSLkw.mp4": {
-            "size": 20.299927711486816
+            "image": "https://i.ytimg.com/vi/3cLqVsCSLkw/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Clifford%20Brown%20%26%20Max%20Roach%20-%20Joy%20Spring%20_%20Drum%20solo%20%26%20comping%20_%20Transcription-3cLqVsCSLkw.mp4?raw=true"
         },
         "Coda - Eternamente-ji3IqmSd5QI.mp4": {
-            "size": 15.370964050292969
+            "image": "https://i.ytimg.com/vi/ji3IqmSd5QI/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Coda%20-%20Eternamente-ji3IqmSd5QI.mp4?raw=true"
         },
         "Coldplay - Lovers in Japan_Reign of love-s_7jJ0sO0Yg.mp4": {
-            "size": 16.755489349365234
+            "image": "https://i.ytimg.com/vi/s_7jJ0sO0Yg/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Coldplay%20-%20Lovers%20in%20Japan_Reign%20of%20love-s_7jJ0sO0Yg.mp4?raw=true"
         },
         "Coldplay - Shiver (Official Video)-u8XFFTWwSvY.mp4": {
-            "size": 24.82101058959961
+            "image": "https://i.ytimg.com/vi/u8XFFTWwSvY/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Coldplay%20-%20Shiver%20(Official%20Video)-u8XFFTWwSvY.mp4?raw=true"
         },
         "Coldplay - Violet Hill (Official Video)-IakDItZ7f7Q.mp4": {
-            "size": 13.635787963867188
+            "image": "https://i.ytimg.com/vi/IakDItZ7f7Q/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Coldplay%20-%20Violet%20Hill%20(Official%20Video)-IakDItZ7f7Q.mp4?raw=true"
         },
         "Coldplay - Viva La Vida (Official Video)-dvgZkm1xWPE.mp4": {
-            "size": 14.852425575256348
+            "image": "https://i.ytimg.com/vi/dvgZkm1xWPE/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Coldplay%20-%20Viva%20La%20Vida%20(Official%20Video)-dvgZkm1xWPE.mp4?raw=true"
         },
         "Come On (feat. Sadat X) (2005 Remaster)-4cYSaOmYfXY.mp4": {
-            "size": 6.5725812911987305
+            "image": "https://i.ytimg.com/vi/4cYSaOmYfXY/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Come%20On%20(feat.%20Sadat%20X)%20(2005%20Remaster)-4cYSaOmYfXY.mp4?raw=true"
         },
         "Come On, Pt. III (1984 Version)-EdnQBCR1-2E.mp4": {
-            "size": 8.413640975952148
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Come%20On%2C%20Pt.%20III%20(1984%20Version)-EdnQBCR1-2E.mp4?raw=true"
         },
         "Coming Up-cEst58YBhjU.mp4": {
-            "size": 7.838366508483887
+            "image": "https://i.ytimg.com/vi/cEst58YBhjU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Coming%20Up-cEst58YBhjU.mp4?raw=true"
         },
         "Como Un Rayo-Ys0nILRcO2k.mp4": {
-            "size": 5.245270729064941
+            "image": "https://i.ytimg.com/vi/Ys0nILRcO2k/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Como%20Un%20Rayo-Ys0nILRcO2k.mp4?raw=true"
         },
         "Como pollo sin cabeza-Fd5pjfgAoZc.mp4": {
-            "size": 6.639019012451172
+            "image": "https://i.ytimg.com/vi/Fd5pjfgAoZc/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Como%20pollo%20sin%20cabeza-Fd5pjfgAoZc.mp4?raw=true"
         },
         "Con Saltos de Alegria Marcos Brunet con letra-6iRn6eX_NyM.mp4": {
-            "size": 9.798636436462402
+            "image": "https://i.ytimg.com/vi/6iRn6eX_NyM/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Con%20Saltos%20de%20Alegria%20Marcos%20Brunet%20con%20letra-6iRn6eX_NyM.mp4?raw=true"
         },
         "Concerto for 2 Cellos, String Orchestra and Continuo in G Minor, RV 531 - I. Allegro-rg3qSlxeHrc.mp4": {
-            "size": 7.779984474182129
+            "image": "https://i.ytimg.com/vi/rg3qSlxeHrc/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Concerto%20for%202%20Cellos%2C%20String%20Orchestra%20and%20Continuo%20in%20G%20Minor%2C%20RV%20531%20-%20I.%20Allegro-rg3qSlxeHrc.mp4?raw=true"
         },
         "Conflict - From Protest To Resistance (1984)-X2V6TD8R_zQ.mp4": {
-            "size": 4.709403991699219
+            "image": "https://i.ytimg.com/vi/X2V6TD8R_zQ/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conflict%20-%20From%20Protest%20To%20Resistance%20(1984)-X2V6TD8R_zQ.mp4?raw=true"
         },
         "Conflict - Mighty and Superior-E3NSA1_bq1c.mp4": {
-            "size": 5.722931861877441
+            "image": "https://i.ytimg.com/vi/E3NSA1_bq1c/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conflict%20-%20Mighty%20and%20Superior-E3NSA1_bq1c.mp4?raw=true"
         },
         "Conflict - Neither Is This (1985)-Zna0JbP73To.mp4": {
-            "size": 4.121254920959473
+            "image": "https://i.ytimg.com/vi/Zna0JbP73To/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conflict%20-%20Neither%20Is%20This%20(1985)-Zna0JbP73To.mp4?raw=true"
         },
         "Conflict - The System Maintains (1984)-WdSmaYNk0VM.mp4": {
-            "size": 4.788888931274414
+            "image": "https://i.ytimg.com/vi/WdSmaYNk0VM/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conflict%20-%20The%20System%20Maintains%20(1984)-WdSmaYNk0VM.mp4?raw=true"
         },
         "Conflict - Tough Shit Mickey (Lyrics on screen)-KIQu8DEF_IY.mp4": {
-            "size": 4.916485786437988
+            "image": "https://i.ytimg.com/vi/KIQu8DEF_IY/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conflict%20-%20Tough%20Shit%20Mickey%20(Lyrics%20on%20screen)-KIQu8DEF_IY.mp4?raw=true"
         },
         "Conflict-the serenade is dead (with lyrics)-RR_CdJF_G4E.mp4": {
-            "size": 6.589046478271484
+            "image": "https://i.ytimg.com/vi/RR_CdJF_G4E/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conflict-the%20serenade%20is%20dead%20(with%20lyrics)-RR_CdJF_G4E.mp4?raw=true"
         },
         "Conjunto Primavera   borracho y loco.mp4": {
-            "size": 6.026379585266113
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20%20%20borracho%20y%20loco.mp4?raw=true"
         },
         "Conjunto Primavera - Algo De Mi (Video Oficial).mp4": {
-            "size": 15.116331100463867
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20-%20Algo%20De%20Mi%20(Video%20Oficial).mp4?raw=true"
         },
         "Conjunto Primavera - Ave Cautiva (Video Oficial).mp4": {
-            "size": 14.027169227600098
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20-%20Ave%20Cautiva%20(Video%20Oficial).mp4?raw=true"
         },
         "Conjunto Primavera - Mi Primera Vez.mp4": {
-            "size": 17.141910552978516
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20-%20Mi%20Primera%20Vez.mp4?raw=true"
         },
         "Conjunto Primavera - Mi destino fue quererte.mp4": {
-            "size": 7.215176582336426
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20-%20Mi%20destino%20fue%20quererte.mp4?raw=true"
         },
         "Conjunto Primavera - Te Llor\u00e9.mp4": {
-            "size": 13.7540864944458
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20-%20Te%20Llor%C3%A9.mp4?raw=true"
         },
         "Conjunto Primavera - Vuelve Conmigo.mp4": {
-            "size": 14.702933311462402
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20-%20Vuelve%20Conmigo.mp4?raw=true"
         },
         "Conjunto Primavera En cada gota de mi sangre.mp4": {
-            "size": 6.5485382080078125
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20En%20cada%20gota%20de%20mi%20sangre.mp4?raw=true"
         },
         "Conjunto Primavera Mi Mayor Fracaso.mp4": {
-            "size": 5.176387786865234
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Conjunto%20Primavera%20Mi%20Mayor%20Fracaso.mp4?raw=true"
         },
         "Control Machete - Desde la Tierra (Tercer Planeta)-KFj8jrPhT8Q.mp4": {
-            "size": 5.796985626220703
+            "image": "https://i.ytimg.com/vi/KFj8jrPhT8Q/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Control%20Machete%20-%20Desde%20la%20Tierra%20(Tercer%20Planeta)-KFj8jrPhT8Q.mp4?raw=true"
         },
         "Control Machete - La Lupita-OnfXXT4Fx4U.mp4": {
-            "size": 6.239009857177734
+            "image": "https://i.ytimg.com/vi/OnfXXT4Fx4U/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Control%20Machete%20-%20La%20Lupita-OnfXXT4Fx4U.mp4?raw=true"
         },
         "Control Machete - Si Se\u00f1or-K_WIGqKS5dA.mp4": {
-            "size": 18.304184913635254
+            "image": "https://i.ytimg.com/vi/K_WIGqKS5dA/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Control%20Machete%20-%20Si%20Se%C3%B1or-K_WIGqKS5dA.mp4?raw=true"
         },
         "Control Machete - \u00bfComprendes, Mendes-xLrW4IcPiWw.mp4": {
-            "size": 10.901382446289062
+            "image": "https://i.ytimg.com/vi/xLrW4IcPiWw/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Control%20Machete%20-%20%C2%BFComprendes%2C%20Mendes-xLrW4IcPiWw.mp4?raw=true"
         },
         "Corazon De Oropel-qrkr_kZsXkU.mp4": {
-            "size": 2.4020776748657227
+            "image": "https://i.ytimg.com/vi/qrkr_kZsXkU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Corazon%20De%20Oropel-qrkr_kZsXkU.mp4?raw=true"
         },
         "Counting Crows - Sullivan Street-qnIqqz7trD8.mp4": {
-            "size": 4.883871078491211
+            "image": "https://i.ytimg.com/vi/qnIqqz7trD8/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Counting%20Crows%20-%20Sullivan%20Street-qnIqqz7trD8.mp4?raw=true"
         },
         "Crash Test Dummies - Mmm Mmm Mmm Mmm (Official Video)-eTeg1txDv8w.mp4": {
-            "size": 11.064859390258789
+            "image": "https://i.ytimg.com/vi/eTeg1txDv8w/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Crash%20Test%20Dummies%20-%20Mmm%20Mmm%20Mmm%20Mmm%20(Official%20Video)-eTeg1txDv8w.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Bad Moon Rising-5BmEGm-mraE.mp4": {
-            "size": 3.5063791275024414
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Bad%20Moon%20Rising-5BmEGm-mraE.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Cotton Fields-C4zPEmRufMU.mp4": {
-            "size": 5.055061340332031
+            "image": "https://i.ytimg.com/vi/C4zPEmRufMU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Cotton%20Fields-C4zPEmRufMU.mp4?raw=true"
         },
         "Creedence Clearwater Revival - I Heard It Through The Grapevine-wCCfc2vAuDU.mp4": {
-            "size": 14.11877155303955
+            "image": "https://i.ytimg.com/vi/wCCfc2vAuDU/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20I%20Heard%20It%20Through%20The%20Grapevine-wCCfc2vAuDU.mp4?raw=true"
         },
         "Creedence Clearwater Revival - It's Just A Thought-yQKrSru_Vxw.mp4": {
-            "size": 9.077852249145508
+            "image": "https://i.ytimg.com/vi/yQKrSru_Vxw/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20It's%20Just%20A%20Thought-yQKrSru_Vxw.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Run Through The Jungle-EbI0cMyyw_M.mp4": {
-            "size": 5.289106369018555
+            "image": "https://i.ytimg.com/vi/EbI0cMyyw_M/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Run%20Through%20The%20Jungle-EbI0cMyyw_M.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Someday Never Comes-NwNuQulK6N0.mp4": {
-            "size": 5.500160217285156
+            "image": "https://i.ytimg.com/vi/NwNuQulK6N0/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Someday%20Never%20Comes-NwNuQulK6N0.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Up Around The Bend-BnRsaHXHznQ.mp4": {
-            "size": 4.147994041442871
+            "image": "https://i.ytimg.com/vi/BnRsaHXHznQ/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Up%20Around%20The%20Bend-BnRsaHXHznQ.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Walk On The Water-POkbsgdj1ig.mp4": {
-            "size": 12.741246223449707
+            "image": "https://i.ytimg.com/vi/POkbsgdj1ig/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Walk%20On%20The%20Water-POkbsgdj1ig.mp4?raw=true"
         },
         "Creedence Clearwater Revival - Wrote A song for everyone-G2-fqdCKCMA.mp4": {
-            "size": 7.433293342590332
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Creedence%20Clearwater%20Revival%20-%20Wrote%20A%20song%20for%20everyone-G2-fqdCKCMA.mp4?raw=true"
         },
         "Crowded House - Don't Dream It's Over (Official Music Video)-J9gKyRmic20.mp4": {
-            "size": 14.237377166748047
+            "image": "https://i.ytimg.com/vi/J9gKyRmic20/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Crowded%20House%20-%20Don't%20Dream%20It's%20Over%20(Official%20Music%20Video)-J9gKyRmic20.mp4?raw=true"
         },
         "Crudo Soy-Ns4n1gPQG74.mp4": {
-            "size": 2.6130800247192383
+            "image": "https://i.ytimg.com/vi/Ns4n1gPQG74/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Crudo%20Soy-Ns4n1gPQG74.mp4?raw=true"
         },
         "Cuando T\u00fa Te Vayas-MMulNenptgI.mp4": {
-            "size": 5.520851135253906
+            "image": "https://i.ytimg.com/vi/MMulNenptgI/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cuando%20T%C3%BA%20Te%20Vayas-MMulNenptgI.mp4?raw=true"
         },
         "Cuanta cacota I-4gkHw00BBD4.mp4": {
-            "size": 3.1931304931640625
+            "image": "https://i.ytimg.com/vi/4gkHw00BBD4/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cuanta%20cacota%20I-4gkHw00BBD4.mp4?raw=true"
         },
         "Cuarto De Milla - Muy Bonita Y Todo-thqja1Hw_Ao.mp4": {
-            "size": 15.652085304260254
+            "image": "https://i.ytimg.com/vi/thqja1Hw_Ao/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cuarto%20De%20Milla%20-%20Muy%20Bonita%20Y%20Todo-thqja1Hw_Ao.mp4?raw=true"
         },
         "Culpable Soy Yo - Gera MX (Video Oficial)-YDIew2iEvBw.mp4": {
-            "size": 12.444477081298828
+            "image": "https://i.ytimg.com/vi/YDIew2iEvBw/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Culpable%20Soy%20Yo%20-%20Gera%20MX%20(Video%20Oficial)-YDIew2iEvBw.mp4?raw=true"
         },
         "Cyanide-bnJzsdNwFu0.mp4": {
-            "size": 16.681967735290527
+            "image": "https://i.ytimg.com/vi/bnJzsdNwFu0/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cyanide-bnJzsdNwFu0.mp4?raw=true"
         },
         "Cygnus... Vismund Cygnus-jnw7Hi6iIKE.mp4": {
-            "size": 23.451972007751465
+            "image": "https://i.ytimg.com/vi/jnw7Hi6iIKE/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Cygnus...%20Vismund%20Cygnus-jnw7Hi6iIKE.mp4?raw=true"
         },
         "chuy vega - ni un vaso de agua-2KezdMB7GDs.mp4": {
-            "size": 4.824886322021484
+            "image": "https://i.ytimg.com/vi/2KezdMB7GDs/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/chuy%20vega%20-%20ni%20un%20vaso%20de%20agua-2KezdMB7GDs.mp4?raw=true"
         },
         "control machete - ladre el desmadre-Pf9GTby2Agw.mp4": {
-            "size": 11.08436393737793
+            "image": "https://i.ytimg.com/vi/Pf9GTby2Agw/hqdefault.jpg",
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/control%20machete%20-%20ladre%20el%20desmadre-Pf9GTby2Agw.mp4?raw=true"
         }
     }
 }
