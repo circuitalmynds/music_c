@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1048.3969,
+    "videos": [
         "My Darling, My Darling ~ Jaye P. Morgan (1959)-eB4E998JTks.mp4",
         "Def con dos - Ultramemia (video  clip)-PqQWyQ2LLYA.mp4",
         "Def Con Dos - De Cacería-M4tLjlbfKhg.mp4",
@@ -107,7 +108,5 @@
         "Secret Service ‎– Ye Si Ca [Extended] 1981-7eOvxF9Eup4.mp4",
         "2Pac - Unconditional Love Traducida y Subtitulada al Español [HD - Official Video]-6Qx3ekiCGss.mp4",
         "Mojo-XkD_Wm6fSx4.mp4"
-    ],
-    "id": "c",
-    "total_size": 999.8297373046877
+    ]
 }
