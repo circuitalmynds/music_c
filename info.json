@@ -79,6 +79,13 @@
             "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/CUMBIA MORENA (AUDIO ORIGINAL) - 🔥LA CONCENTRACION🔥 #LACONCECUMBIAS-VizSJmYbOD8.mp4?raw=true"
         },
         {
+            "id": "rT1txCjuTxI",
+            "name": "J'adore Venise-rT1txCjuTxI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c/videos/J'adore Venise-rT1txCjuTxI.mp4",
+            "size": 5.025827,
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/J'adore Venise-rT1txCjuTxI.mp4?raw=true"
+        },
+        {
             "id": "Zaef0T2AQoM",
             "name": "Flecha Envenenada-Zaef0T2AQoM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c/videos/Flecha Envenenada-Zaef0T2AQoM.mp4",
@@ -238,6 +245,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/c/videos/Elvis Presley - Money Honey (1956)-OuDc3YBrZYI.mp4",
             "size": 4.456561,
             "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Elvis Presley - Money Honey (1956)-OuDc3YBrZYI.mp4?raw=true"
+        },
+        {
+            "id": "SkypZuY6ZvA",
+            "name": "Bee Gees - Night Fever-SkypZuY6ZvA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c/videos/Bee Gees - Night Fever-SkypZuY6ZvA.mp4",
+            "size": 5.067292,
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Bee Gees - Night Fever-SkypZuY6ZvA.mp4?raw=true"
         },
         {
             "id": "agMzPm4cfaw",
@@ -513,6 +527,13 @@
             "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Caifanes - Amanece-yr8Q_Yi7Hr8.mp4?raw=true"
         },
         {
+            "id": "MMFj8uDubsE",
+            "name": "Bob Dylan - Blowin' in the Wind (Official Audio)-MMFj8uDubsE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c/videos/Bob Dylan - Blowin' in the Wind (Official Audio)-MMFj8uDubsE.mp4",
+            "size": 3.4220159999999997,
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Bob Dylan - Blowin' in the Wind (Official Audio)-MMFj8uDubsE.mp4?raw=true"
+        },
+        {
             "id": "18L7cZ6yXgU",
             "name": "OMD - Souvenir - HQ - 1981 - TRADUCIDA ESPAÑOL (Lyrics)-18L7cZ6yXgU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c/videos/OMD - Souvenir - HQ - 1981 - TRADUCIDA ESPAÑOL (Lyrics)-18L7cZ6yXgU.mp4",
@@ -632,6 +653,13 @@
             "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Just You 'N' Me (2002 Remaster)-iUpNxxkkaBQ.mp4?raw=true"
         },
         {
+            "id": "g_72RkQV25Y",
+            "name": "Arcade Fire with Owen Pallett - Song on the Beach; Photograph-g_72RkQV25Y.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c/videos/Arcade Fire with Owen Pallett - Song on the Beach; Photograph-g_72RkQV25Y.mp4",
+            "size": 6.619155999999999,
+            "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/Arcade Fire with Owen Pallett - Song on the Beach; Photograph-g_72RkQV25Y.mp4?raw=true"
+        },
+        {
             "id": "7kGPhpvqtOc",
             "name": "Screamin Jay Hawkins - I put a spell on you-7kGPhpvqtOc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c/videos/Screamin Jay Hawkins - I put a spell on you-7kGPhpvqtOc.mp4",
@@ -723,5 +751,5 @@
             "url": "https://github.com/circuitalmynds/music_c/blob/main/videos/2Pac - Unconditional Love Traducida y Subtitulada al Español [HD - Official Video]-6Qx3ekiCGss.mp4?raw=true"
         }
     ],
-    "total_size": 1001.129444
+    "total_size": 1021.2637349999999
 }
